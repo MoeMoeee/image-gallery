@@ -1,3 +1,12 @@
+# Image Gallery Website
+
+This is my first project, which is a website displaying images based on search terms. 
+
+This project used HTML, Tailwind CSS to style and React to fetch Pixabay API and build user-interface.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
