@@ -7,6 +7,9 @@ This project used HTML, Tailwind CSS to style and React to fetch Pixabay API and
 
 
 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
